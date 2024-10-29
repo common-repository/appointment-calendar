@@ -1,0 +1,22 @@
+#vtip {  
+/*border: 1px solid #a6c9e2;
+padding: 20px; 
+background-color: white #F2F2F2;*/
+position: absolute;
+padding:10px;
+border:1px solid #ccc;
+background: #E3F4F9 ;
+width:auto;
+ height: 16px;
+text-shadow: 0 1px 0 white; 
+-moz-border-radius:8px; -webkit-border-radius: 8px; 
+border-radius: 8px;
+list-style:none;
+
+}
+img
+{
+margin-left:10px;
+
+
+}
